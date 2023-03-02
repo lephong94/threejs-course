@@ -160,6 +160,8 @@ body {
 .banner .banner-content {
     text-align: center;
     padding-top: 70px;
+    position: relative;
+    z-index: 9999;
 }
 
 .banner .banner-content h1 {
